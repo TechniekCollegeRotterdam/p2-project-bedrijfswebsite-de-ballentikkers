@@ -21,6 +21,7 @@
       <article>
         <img src="image/6c2065f3-8020-4f51-ac6d-50d81ffdc8c2.png" alt="sushi" class="responsive">
         <h1>Welkom</h1>
+        <?php include 'database.php' ?>
         <p>Bij dit website kun je lekkerste sushi gaan bestellen. Je kan ook zien waar Shabu to go in Nederland ligt en
           tot wanneer het open is.<br>
           Je hoeft niet bang te zijn dat het 1 dag niet opent, want het is de hele week open</p>
